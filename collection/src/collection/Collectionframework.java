@@ -34,7 +34,7 @@ class Customdataprovider{
 public class Collectionframework {
 	@Test(dataProvider="LoginDataprovider",dataProviderClass=Custom.class)
 	public void LoginTest(String email,String pwd) {
-		System.out.println(email+ "  "+ pwd);
+		System.out.println(email+ " +" test "+ "+ pwd);
 	}
 	
 

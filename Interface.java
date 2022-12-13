@@ -7,4 +7,5 @@ public void ChangedMethod2();
 public void newMethod();
 
 public void method3();
+//this is interface
 }
